@@ -18,4 +18,3 @@ A simple weather app built with HTML, CSS, and JavaScript that lets you check th
 - JavaScript
 - OpenWeatherMap API
 
-[Live Demo](https://paru-13.github.io/Weather-App/)
